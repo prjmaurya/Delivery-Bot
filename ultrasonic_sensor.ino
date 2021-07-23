@@ -1,8 +1,5 @@
 /*
-* Ultrasonic Sensor HC-SR04 and Arduino Tutorial
-*
-* by Dejan Nedelkovski,
-* www.HowToMechatronics.com
+* Ultrasonic Sensor HC-SR04 and Arduino 
 *
 */
 // defines pins numbers

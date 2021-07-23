@@ -1,7 +1,7 @@
 /**
  ******************************************************************************
  * @file    vr_sample_train.ino
- * @author  JiapengLi
+ * 
  * @brief   This file provides a demostration on 
  * how to train VoiceRecognitionModule to record your voice
  ******************************************************************************
