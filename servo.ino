@@ -67,10 +67,4 @@ else if(t == 'w')
 {
   myservo1.write(90);
 }
-
-
-
-
-
-
 }

@@ -1,9 +1,6 @@
 /*
 * Ultrasonic Sensor HC-SR04 and Arduino 
 *
-* 
-* 
-*
 */
 // defines pins numbers
 const int trigPin = 7;
