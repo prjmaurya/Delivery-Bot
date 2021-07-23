@@ -1,9 +1,9 @@
 /**
  ******************************************************************************
  * @file    vr_sample_train.ino
- * @author  JiapengLi
+ * 
  * @brief   This file provides a demostration on 
- * how to train VoiceRecognitionModule to record your voice
+ * How to train VoiceRecognitionModule to record your voice
  ******************************************************************************
  * @note:
  * Use serial command to control VoiceRecognitionModule. '
@@ -991,7 +991,7 @@ void printTrain(uint8_t *buf, uint8_t len)
 /**
  * @brief   Print "sigtrain" command return value.
  * @param   buf  -->  "sigtrain" command return value
- * buf[0]  -->  number of records which are trained successfully.
+ * buf[0]  -->  Number of records which are trained successfully.
  * buf[1]  -->  record number
  * buf[2]  -->  record train status.
  * 00 --> Trained 
